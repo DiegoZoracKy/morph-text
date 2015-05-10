@@ -1,7 +1,7 @@
 {
 	"name": "morph-text",
-	"version": "1.0.1",
-	"description": "Recursively runs multiple replaces on String (text) based on a predefined rules defined as a parameter. Useful in cases where a String template is being used. Also it can be a lightweight solution for HTML templates.",
+	"version": "1.0.2",
+	"description": "Multiple replaces on String (text) based on a predefined rules defined as a parameter. Useful in cases where a String template is being used. Also it can be a lightweight solution for HTML templates.",
 	"homepage": "https://github.com/DiegoZoracKy/morph-text",
 	"main": "./lib/morph-text.js",
 	"author": {
