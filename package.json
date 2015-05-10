@@ -1,0 +1,31 @@
+{
+	"name": "morph-text",
+	"version": "1.0.0",
+	"description": "Recursively runs multiple replaces on String (text) based on a predefined rules defined as a parameter. Useful in cases where a String template is being used. Also it can be a lightweight solution for HTML templates.",
+	"homepage": "https://github.com/DiegoZoracKy/morph-text",
+	"main": "./lib/morph-text.js",
+	"author": {
+		"name": "Diego ZoracKy",
+		"email": "diego.zoracky@gmail.com",
+		"url": "diegozoracky.com",
+		"twitter": "@diegozoracky"
+	},
+	"licenses": {
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/MIT"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/DiegoZoracKy/morph-text.git"
+	},
+	"keywords":[
+		"replace text",
+		"multiple replace text",
+		"replace string",
+		"multiple replace string",
+		"string template replace",
+		"convert text",
+		"regex text string"
+	],
+	"bugs": "https://github.com/DiegoZoracKy/morph-text/issues"
+}
